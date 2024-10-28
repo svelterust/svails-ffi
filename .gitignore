@@ -24,3 +24,4 @@ vite.config.ts.timestamp-*
 /files
 development.sqlite*
 target
+*.so
